@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=$PWD/launch.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=MIDI setup
+Name=MIDI setup
+Comment[en_US]=
+Comment=
